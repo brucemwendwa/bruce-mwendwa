@@ -14,17 +14,24 @@ I combine knowledge in software development, cybersecurity, and technology enabl
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,php,java,mysql,linux,git,github,vscode,svg,aws,gcp&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,php,java,mysql,linux,git,github,vscode,aws,gcp,figma,postman,tailwind&theme=dark" />
   </a>
+  <img src="https://img.shields.io/badge/Cursor-5E5E5E?style=for-the-badge&logo=cursor&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=python&logoColor=61dafb" height="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Activities:
 
-![Bruce's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brucemwendwa&show_icons=true&theme=tokyonight&rank_icon=github)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brucemwendwa&show_icons=true&theme=radical&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucemwendwa&layout=compact&theme=radical" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brucemwendwa&theme=tokyonight)
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=brucemwendwa&theme=radical&hide_border=true" />
+</p>
 
 ---
 
